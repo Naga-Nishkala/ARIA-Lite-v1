@@ -1,15 +1,3 @@
-Yes — this is a **good technical summary**, but for a README it’s currently:
-
-* a bit repetitive
-* slightly informal in structure
-* mixes intuition + implementation details without clean separation
-
-So it’s *accurate*, just not yet “README-grade”.
-
-I’ll rewrite it into a clean, professional version while preserving your idea.
-
----
-
 # 🧠 ARIA-Lite v1 — Hybrid Graph + Vector Retrieval for Biomedical Papers
 
 ## Overview
@@ -137,11 +125,3 @@ This enables the system to:
 ARIA-Lite v1 is a:
 
 > **Hybrid biomedical retrieval system combining dense vector search with entity-aware graph scoring using weighted score fusion.**
-
----
-
-If you want, I can next:
-
-* turn this into a full GitHub README with badges, diagrams, and architecture figure
-* or rewrite it to sound more “research paper / arXiv style”
-* or help you define ARIA-Lite v2 section right below it (so your repo evolves cleanly)
